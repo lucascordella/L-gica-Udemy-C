@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678736420 source:c:\temp\ws-cb\problema_retangulo\main.c
+	<stdio.h>
+	<math.h>
+
