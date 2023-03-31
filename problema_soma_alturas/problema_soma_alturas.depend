@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679003829 source:c:\temp\ws-cb\problema_soma_alturas\main.c
+	<stdio.h>
+	<stdlib.h>
+
